@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonah3d
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning C++ / Widgets for desktop development
+- 👀 I’m interested in enterprise backened systems and high frequency data transactions.
+- 🌱 Computer graphics enthusiast.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me on twitter, same user name ;)
 
