@@ -32,7 +32,7 @@ each other in an efficient, fast and reliable way.
 ### 🌱 I’m learning
 
 <div display="flex">
-   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="Php"/>
 </div>
 
@@ -48,10 +48,10 @@ each other in an efficient, fast and reliable way.
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/jonathan-arthur3d/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Jonah3d">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter"/>
   </a>
   <a href="jonah3d.arthur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
