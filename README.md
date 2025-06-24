@@ -32,7 +32,6 @@ each other in an efficient, fast and reliable way.
 ### 🌱 I’m learning
 
 <div display="flex">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="Php"/>
 </div>
 
