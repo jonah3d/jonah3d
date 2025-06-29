@@ -29,11 +29,6 @@ each other in an efficient, fast and reliable way.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 </div>
 
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="Php"/>
-</div>
 
 
 ### 🔭 I’m currently working on
