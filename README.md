@@ -31,11 +31,6 @@ each other in an efficient, fast and reliable way.
 
 
 
-### 🔭 I’m currently working on
-
-- A pos & inventory management solution for a technology retailer using the object-oriented database called Matisse <a href="https://github.com/jonah3d/Mecotronics">Mecatronics</a>
-
-
 
 
 ### 📫 How to reach me
